@@ -136,4 +136,3 @@ The day of the competition was the moment our team had been preparing for. Until
 
 This experience demonstrated the importance of careful **tuning, testing, and strategy** for competition success.
 
-

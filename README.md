@@ -117,6 +117,23 @@ previousError = error;
 
 // Apply to motors
 setMotors(baseSpeed - PIDvalue, baseSpeed + PIDvalue);
+```
+The day of the competition was the moment our team had been preparing for. Until the day before, our robot faced several issues, but after making key improvements, it worked correctly.
 
+### Round Strategy:
+- **First Round:**  
+  - Objective: Complete one lap  
+  - Base Speed: 150  
+  - Max Speed: 180  
+  - Outcome: Robot completed the lap successfully, allowing us to skip the wildcard round
+
+- **Second Round:**  
+  - Objective: Achieve the lowest lap time  
+  - Base Speed: 200  
+  - Max Speed: 255  
+  - PID Adjustments: Kp = 0.07, Kd = 0.13  
+  - Outcome: The robot completed the track smoothly, achieving **7th place** with a lap time of **13.79 seconds**
+
+This experience demonstrated the importance of careful **tuning, testing, and strategy** for competition success.
 
 
